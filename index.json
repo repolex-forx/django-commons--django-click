@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "django-click",
+  "versions": [
+    {
+      "commit": "283b15f5323b1465e2a4e994cbf41d735995df14",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:31:00.459011+00:00"
+    }
+  ]
+}
